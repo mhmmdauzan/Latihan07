@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miMelee"
+        android:title="Melee"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miHandgun"
+        android:title="Handgun"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miSemiMachineGun"
+        android:title="Semi Machine Gun"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miAssaultRifle"
+        android:title="Assault Rifle"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miSniperRifle"
+        android:title="Sniper Rifle"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miMachineGun"
+        android:title="Machine Gun"
+        tools:ignore="HardcodedText" />
+</menu>
